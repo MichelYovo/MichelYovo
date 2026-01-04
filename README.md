@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichelYovo
 - 👀 I’m interested in IA 
-- 🌱 I’m currently learning Python|Html|CSS|Js
+- 🌱 I’m currently learning Python |Html |CSS |Js
 - 💞️ I’m looking to collaborate on an AI project
 - 📫 How to reach me my social networks?
 - 😄 Pronouns: Amévi
